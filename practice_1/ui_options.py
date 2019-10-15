@@ -7,6 +7,7 @@ import tkinter as tk
 
 url = "https://foros.derecho.com/foro/20-Derecho-Civil-General/page"
 
+
 def cargar():
     # Refresh db data
     con = database.create_database()
@@ -31,7 +32,7 @@ def cargar():
             responses = d.findAll("li")[0].text
             visits = d.findAll("li")[1].text
             publications.append((title, link, author, date, responses[12:], visits[9:]))
-            
+
     sql = "insert into publication(title, link, author, date, responses, visits) values (?, ?, ?, ?, ?, ?)"
     con.executemany(sql, publications)
     sql = "select count(*) from publication"
@@ -42,21 +43,22 @@ def cargar():
     win = tk.Toplevel()
     win.title("Información")
     l = tk.Label(win, text="Se han almacenado " + str(pub_number[0]) + " comunicaciones.")
-    l.grid(row = 0, column = 0)
+    l.grid(row=0, column=0)
     con.commit()
     con.close()
 
+
 def mostrar():
-     # Informamos de las publicaciones añadidas
+    # Informamos de las publicaciones añadidas
     win = tk.Toplevel()
     win.title("Mostrando publicaciones")
-    
+
     scrollbar = tk.Scrollbar(win)
     scrollbar.pack(side="right", fill="y")
 
     l = tk.Listbox(win, yscrollcommand=scrollbar.set)
-    l.pack(fill = "both", expand = True)
-    
+    l.pack(fill="both", expand=True)
+
     con = database.get_db_connection()
     cursor = con.cursor()
     sql = "select title, author, date from publication"
@@ -67,6 +69,7 @@ def mostrar():
         scrollbar.config(command=l.yview)
     con.close()
 
+
 def buscar_tema():
     win = tk.Toplevel()
     win.title("Buscar tema")
@@ -75,6 +78,7 @@ def buscar_tema():
     button = tk.Button(win, text="Buscar", command=lambda: get_title(entry.get()))
     button.pack()
 
+
 def buscar_fecha():
     win = tk.Toplevel()
     win.title("Buscar tema")
@@ -82,6 +86,7 @@ def buscar_fecha():
     entry.pack()
     button = tk.Button(win, text="Buscar", command=lambda: get_date(entry.get()))
     button.pack()
+
 
 def temas_populares():
     con = database.get_db_connection()
@@ -96,13 +101,14 @@ def temas_populares():
     scrollbar.pack(side="right", fill="y")
 
     l = tk.Listbox(win, yscrollcommand=scrollbar.set)
-    l.pack(fill = "both", expand = True)
+    l.pack(fill="both", expand=True)
     for item in cursor.fetchall():
         l.insert(tk.END, item)
 
     scrollbar.config(command=l.yview)
-    
+
     con.close()
+
 
 def temas_activos():
     con = database.get_db_connection()
@@ -117,13 +123,14 @@ def temas_activos():
     scrollbar.pack(side="right", fill="y")
 
     l = tk.Listbox(win, yscrollcommand=scrollbar.set)
-    l.pack(fill = "both", expand = True)
+    l.pack(fill="both", expand=True)
     for item in cursor.fetchall():
         l.insert(tk.END, item)
 
     scrollbar.config(command=l.yview)
-    
+
     con.close()
+
 
 def get_title(title):
     con = database.get_db_connection()
@@ -138,13 +145,14 @@ def get_title(title):
     scrollbar.pack(side="right", fill="y")
 
     l = tk.Listbox(win, yscrollcommand=scrollbar.set)
-    l.pack(fill = "both", expand = True)
+    l.pack(fill="both", expand=True)
     for item in cursor.fetchall():
         l.insert(tk.END, item)
 
     scrollbar.config(command=l.yview)
-    
+
     con.close()
+
 
 def get_date(title):
     con = database.get_db_connection()
@@ -159,11 +167,10 @@ def get_date(title):
     scrollbar.pack(side="right", fill="y")
 
     l = tk.Listbox(win, yscrollcommand=scrollbar.set)
-    l.pack(fill = "both", expand = True)
+    l.pack(fill="both", expand=True)
     for item in cursor.fetchall():
         l.insert(tk.END, item)
 
     scrollbar.config(command=l.yview)
-    
-    con.close()
 
+    con.close()

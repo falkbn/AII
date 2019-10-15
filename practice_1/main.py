@@ -1,8 +1,7 @@
 # Author: Antonio
 
 import ctypes
-import practica
-import ui_options
+from practice_1 import practica, ui_options
 
 if __name__ == "__main__":
     # Para prevenir que se vea borroso (solo windows)
