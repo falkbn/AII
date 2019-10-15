@@ -1,3 +1,5 @@
+# Author: Antonio
+
 import ctypes
 import practica
 import ui_options

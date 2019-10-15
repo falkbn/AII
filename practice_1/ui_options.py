@@ -1,4 +1,6 @@
-import database
+# Author: Antonio
+
+from practice_1 import database
 from bs4 import BeautifulSoup
 import urllib.request
 import tkinter as tk

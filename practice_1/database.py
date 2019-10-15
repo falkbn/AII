@@ -1,3 +1,5 @@
+# Author: Antonio
+
 import sqlite3
 
 database = "database.db"

@@ -1,3 +1,5 @@
+# Author: Antonio
+
 import tkinter as tk
 
 class Practica1:
