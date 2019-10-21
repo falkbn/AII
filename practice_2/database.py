@@ -22,9 +22,14 @@ def create_database():
                     precio_normal TEXT,
                     precio_oferta TEXT,
                     precio_kilo TEXT)''')
+    conn.commit()
     return conn
 
 
 def connect():
     conn = sqlite3.connect(database)
     return conn
+
+
+def desconnect(conn):
+    conn.close()

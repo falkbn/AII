@@ -29,4 +29,33 @@ def almacenar_productos():
         print(precio_kilo)
         print()
 
-        cursor.execute('INSERT INTO productos VALUES(?,?,?,?,?,?)',(marca, nombre, link, precio_normal, precio_oferta, precio_kilo))
+        cursor.execute('INSERT INTO productos VALUES(?,?,?,?,?,?)',
+                       (marca, nombre, link, precio_normal, precio_oferta, precio_kilo))
+        conn.commit()
+
+    db.desconnect(conn)
+
+
+def todas_las_marcas():
+    conn = db.connect()
+    cursor = conn.cursor()
+
+    cursor.execute('''SELECT marca FROM productos''')
+    marcas = cursor.fetchall()
+    marcas = sorted(set(map(lambda x: x[0], marcas)))
+    print(marcas)
+
+    db.desconnect(conn)
+
+
+def buscar_ofertas():
+    conn = db.connect()
+    cursor = conn.cursor()
+
+    cursor.execute('''SELECT nombre FROM productos WHERE precio_oferta != "-"''')
+    ofertas = cursor.fetchall()
+    ofertas = sorted(set(ofertas))
+    print(ofertas)
+
+    db.desconnect(conn)
+
