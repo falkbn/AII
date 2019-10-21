@@ -76,7 +76,7 @@ def busqueda_marcas(marca):
     cursor.execute('SELECT nombre FROM productos WHERE marca == ?', (marca,))
     nombres = cursor.fetchall()
     nombres = sorted(set(nombres))
-    print(nombres)
+    print(nombres[0])
 
     db.desconnect(conn)
-    return nombres
+    return [x[0] for x in nombres]
