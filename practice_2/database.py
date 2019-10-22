@@ -31,5 +31,5 @@ def connect():
     return conn
 
 
-def desconnect(conn):
+def disconnect(conn):
     conn.close()

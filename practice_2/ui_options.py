@@ -34,7 +34,7 @@ def almacenar_productos():
                            (marca, nombre, link, precio_normal, precio_oferta, precio_kilo))
             conn.commit()
 
-        db.desconnect(conn)
+        db.disconnect(conn)
 
     except ValueError as e:
         var = 'Error al crear la base de datos'
@@ -52,7 +52,7 @@ def todas_las_marcas():
     marcas = sorted(set(map(lambda x: x[0], marcas)))
     print(marcas)
 
-    db.desconnect(conn)
+    db.disconnect(conn)
     return marcas
 
 
@@ -65,7 +65,7 @@ def buscar_ofertas():
     ofertas = sorted(set(ofertas))
     print(ofertas)
 
-    db.desconnect(conn)
+    db.disconnect(conn)
     return [x[0] for x in ofertas]
 
 
@@ -78,6 +78,6 @@ def busqueda_marcas(marca):
     nombres = sorted(set(nombres))
     print(nombres[0])
 
-    db.desconnect(conn)
+    db.disconnect(conn)
     return [x[0] for x in nombres]
 
