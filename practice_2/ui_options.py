@@ -66,17 +66,18 @@ def buscar_ofertas():
     print(ofertas)
 
     db.desconnect(conn)
-    return ofertas
+    return [x[0] for x in ofertas]
 
 
 def busqueda_marcas(marca):
     conn = db.connect()
     cursor = conn.cursor()
 
-    cursor.execute('SELECT nombre FROM productos WHERE marca == ?', (marca,))
+    cursor.execute('SELECT nombre, precio_normal, precio_oferta FROM productos WHERE marca == ?', (marca,))
     nombres = cursor.fetchall()
     nombres = sorted(set(nombres))
     print(nombres[0])
 
     db.desconnect(conn)
     return [x[0] for x in nombres]
+

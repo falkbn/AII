@@ -9,7 +9,22 @@ def inicia():
     almacenar.grid(row=0, column=0)
     mostrar = tk.Button(root, text='Mostrar', command=mostrar_marcas)
     mostrar.grid(row=0, column=1)
+    buscar = tk.Button(root, text='Buscar', command=mostrar_ofertas)
+    buscar.grid(row=0, column=2)
     root.mainloop()
+
+
+def mostrar_ofertas():
+    window1 = tk.Tk()
+    scroll = tk.Scrollbar(window1)
+    scroll.pack(side='right', fill='y')
+    lb = tk.Listbox(window1, yscrollcommand=scroll.set)
+
+    for id, i in enumerate(ui.buscar_ofertas()):
+        lb.insert(id, i)
+        lb.pack(fill='both', expand=True)
+
+    window1.mainloop()
 
 
 def mostrar_marcas():
