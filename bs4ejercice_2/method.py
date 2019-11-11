@@ -4,19 +4,7 @@ from datetime import datetime
 
 
 def datos_cargar():
-    conn = db.create_database()
-    cursor = conn.cursor()
-
-    try:
-
-
-
-
-    except ValueError as e:
-        var = 'Error al crear la base de datos'
-        print(e)
-
-    messagebox.showinfo('Base de datos', var)
+    None
 
 
 def datos_mostrar():
