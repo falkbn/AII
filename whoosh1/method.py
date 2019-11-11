@@ -4,7 +4,6 @@ from tkinter import messagebox
 
 def almacenar_noticias():
     try:
-        var = 'Base de datos creada correctamente'
         conn = db.create_database()
         cursor = conn.cursor()
 
@@ -30,6 +29,8 @@ def almacenar_noticias():
                                (categoria, titulo, enlace, descripcion, fecha))
                 conn.commit()
 
+        noticias = str(cursor.execute('SELECT COUNT(*) FROM noticias').fetchone()[0])
+        var = 'Base de datos creada correctamente con ' + noticias + ' entradas'
         db.disconnect(conn)
 
     except ValueError as e:
