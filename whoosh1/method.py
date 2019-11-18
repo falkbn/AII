@@ -1,6 +1,7 @@
 from whoosh1 import database as db
 from tkinter import messagebox
 from whoosh1 import wh
+from datetime import datetime
 
 
 def almacenar_noticias():
@@ -24,7 +25,9 @@ def almacenar_noticias():
                     descripcion = "N/A"
                 file.write(descripcion + '\n')
                 fecha = data.find('div', class_='meta-date').text
-                file.write(fecha + '\n' + '\n')
+                datecode = enlace.split('-')[1].split('/')[0]
+                datecode = str(datetime.fromtimestamp(int(datecode)))
+                file.write(datecode + '\n' + '\n')
                 file.close()
 
                 cursor.execute('INSERT INTO noticias VALUES(?,?,?,?,?)',
