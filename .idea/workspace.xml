@@ -2,8 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e95b7e7-45fb-4470-9a0b-038c1f50958f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-1-n9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-1-n9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-2-n9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-2-n9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Index/MAIN_fguero6bhppx38nm.seg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Index/_MAIN_1.toc" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Index/_MAIN_1.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/whoosh1/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/database.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whoosh1/method.py" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/interface.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,15 +74,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/whoosh1/database.py">
+        <entry file="file://$PROJECT_DIR$/whoosh1/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -28,20 +87,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/whoosh1/interface.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="232">
+              <caret line="80" column="47" lean-forward="true" selection-start-line="80" selection-start-column="47" selection-end-line="80" selection-end-column="47" />
               <folding>
-                <element signature="e#0#20#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/whoosh1/method.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bs4ejercice_2/gui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="31" column="85" selection-start-line="31" selection-start-column="85" selection-end-line="31" selection-end-column="85" />
+            <state relative-caret-position="-157">
+              <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -50,8 +109,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/whoosh1/main.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/whoosh1/method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/whoosh1/wh.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -71,10 +158,12 @@
       <find>filemenu</find>
       <find>entry</find>
       <find>map</find>
+      <find>b_1</find>
     </findStrings>
     <replaceStrings>
       <replace>product</replace>
       <replace>data_menu</replace>
+      <replace>b_a</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -100,10 +189,16 @@
         <option value="$PROJECT_DIR$/entregable/database.py" />
         <option value="$PROJECT_DIR$/bs4ejercice_2/method.py" />
         <option value="$PROJECT_DIR$/whoosh1/methods.py" />
-        <option value="$PROJECT_DIR$/whoosh1/interface.py" />
-        <option value="$PROJECT_DIR$/whoosh1/main.py" />
         <option value="$PROJECT_DIR$/whoosh1/database.py" />
+        <option value="$PROJECT_DIR$/ejercicio_whoosh/main.py" />
+        <option value="$PROJECT_DIR$/ejercicio_whoosh/solucionPropuesta.py" />
+        <option value="$PROJECT_DIR$/ejercicio_whoosh2/solucion_propuesta.py" />
+        <option value="$PROJECT_DIR$/whoosh1/Docs/p-1-n2.txt" />
+        <option value="$PROJECT_DIR$/whoosh1/main.py" />
         <option value="$PROJECT_DIR$/whoosh1/method.py" />
+        <option value="$PROJECT_DIR$/whoosh1/wh.py" />
+        <option value="$PROJECT_DIR$/whoosh1/interface.py" />
+        <option value="$PROJECT_DIR$/whoosh1/Docs/p-1-n1.txt" />
       </list>
     </option>
   </component>
@@ -118,10 +213,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="618" />
+    <option name="width" value="1309" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -131,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,33 +235,39 @@
             <path>
               <item name="AII - Acceso Inteligente a la Información" type="b2602c69:ProjectViewProjectNode" />
               <item name="AII - Acceso Inteligente a la Información" type="462c0819:PsiDirectoryNode" />
-              <item name="practice_2" type="462c0819:PsiDirectoryNode" />
+              <item name="whoosh1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AII - Acceso Inteligente a la Información" type="b2602c69:ProjectViewProjectNode" />
               <item name="AII - Acceso Inteligente a la Información" type="462c0819:PsiDirectoryNode" />
               <item name="whoosh1" type="462c0819:PsiDirectoryNode" />
+              <item name="Docs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/whoosh1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ejercicio_whoosh2/Correos" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Academico 20\AII Acceso Intelingente a la Información\repositorio\AII - Acceso Inteligente a la Información\practice_2" />
-      <recent name="C:\Academico 20\AII Acceso Intelingente a la Información\repositorio\AII - Acceso Inteligente a la Información\whoosh1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Academico 20\AII Acceso Intelingente a la Información\repositorio\AII - Acceso Inteligente a la Información\ejercicio_whoosh2\Correos" />
+      <recent name="C:\Academico 20\AII Acceso Intelingente a la Información\repositorio\AII - Acceso Inteligente a la Información\ejercicio_whoosh\dirdocs" />
       <recent name="C:\Academico 20\AII Acceso Intelingente a la Información\repositorio\AII - Acceso Inteligente a la Información\whoosh1" />
       <recent name="C:\Academico 20\AII Acceso Intelingente a la Información\repositorio\AII - Acceso Inteligente a la Información\entregable" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Academico 20\AII Acceso Intelingente a la Información\repositorio\AII - Acceso Inteligente a la Información\ejercicio_whoosh2\Docs" />
+      <recent name="C:\Academico 20\AII Acceso Intelingente a la Información\repositorio\AII - Acceso Inteligente a la Información\ejercicio_whoosh2\Agenda" />
+      <recent name="C:\Academico 20\AII Acceso Intelingente a la Información\repositorio\AII - Acceso Inteligente a la Información\practice_2" />
+      <recent name="C:\Academico 20\AII Acceso Intelingente a la Información\repositorio\AII - Acceso Inteligente a la Información\whoosh1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -183,8 +282,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.method">
-    <configuration name="database" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="interface" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AII - Acceso Inteligente a la Información" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,7 +295,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/whoosh1/database.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/whoosh1/interface.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AII - Acceso Inteligente a la Información" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,53 +312,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bs4ejercice_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/whoosh1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bs4ejercice_2/gui.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AII - Acceso Inteligente a la Información" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bs4ejercice_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bs4ejercice_2/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AII - Acceso Inteligente a la Información" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/entregable" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/entregable/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/whoosh1/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,13 +346,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solucionPropuesta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AII - Acceso Inteligente a la Información" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ejercicio_whoosh" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicio_whoosh/solucionPropuesta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solucion_propuesta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AII - Acceso Inteligente a la Información" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ejercicio_whoosh2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicio_whoosh2/solucion_propuesta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.interface" />
+        <item itemvalue="Python.solucionPropuesta" />
+        <item itemvalue="Python.solucion_propuesta" />
         <item itemvalue="Python.method" />
-        <item itemvalue="Python.database" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.gui" />
       </list>
     </recent_temporary>
   </component>
@@ -316,19 +415,19 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25067025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32107496" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32904148" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31541726" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32904148" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
-      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="DB Execution Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -347,13 +446,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practice_2/database.db">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/tkinter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="2142" selection-start-line="2142" selection-end-line="2142" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice_2/database.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -390,36 +482,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/entregable/method.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entregable/gui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entregable/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entregable/database.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/entregable/method.py" />
+    <entry file="file://$PROJECT_DIR$/entregable/gui.py" />
+    <entry file="file://$PROJECT_DIR$/entregable/main.py" />
+    <entry file="file://$PROJECT_DIR$/entregable/database.py" />
     <entry file="file://$PROJECT_DIR$/practice_1/ui_options.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
@@ -437,16 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bs4ejercice_2/gui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice_2/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -460,39 +516,6 @@
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/whoosh1/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/whoosh1/interface.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bs4ejercice_2/method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/whoosh1/database.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -517,13 +540,153 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/whoosh1/method.py">
+    <entry file="file://$PROJECT_DIR$/ejercicio_whoosh/Correos/6.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio_whoosh/Correos/2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio_whoosh2/Docs/Correos/6.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/Docs/noticias.txt" />
+    <entry file="file://$PROJECT_DIR$/ejercicio_whoosh2/Index/_MAIN_1.toc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="31" column="85" selection-start-line="31" selection-start-column="85" selection-end-line="31" selection-end-column="85" />
+        <state relative-caret-position="187">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio_whoosh/Correos/3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio_whoosh/Correos/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/database.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n7.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n8.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4ejercice_2/method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="1704" selection-start-line="1704" selection-end-line="1704" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio_whoosh/solucionPropuesta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="60" column="46" lean-forward="true" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
+          <folding>
+            <element signature="e#17#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio_whoosh2/solucion_propuesta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+          <folding>
+            <element signature="e#19#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/wh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4ejercice_2/gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/whoosh/qparser/default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="358" column="43" lean-forward="true" selection-start-line="358" selection-start-column="43" selection-end-line="358" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="80" column="47" lean-forward="true" selection-start-line="80" selection-start-column="47" selection-end-line="80" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
