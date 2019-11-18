@@ -62,7 +62,7 @@
       <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n7.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n8.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/whoosh1/Docs/p-3-n9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Docs/p-3-n9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whoosh1/Index/MAIN_csltueyyduwfzbxq.seg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whoosh1/Index/MAIN_fguero6bhppx38nm.seg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/whoosh1/Index/_MAIN_1.toc" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/Index/_MAIN_1.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/whoosh1/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/database.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/whoosh1/interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/whoosh1/interface.py" afterDir="false" />
@@ -84,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/whoosh1/interface.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+            <state relative-caret-position="232">
+              <caret line="80" column="47" lean-forward="true" selection-start-line="80" selection-start-column="47" selection-end-line="80" selection-end-column="47" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -99,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bs4ejercice_2/gui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+            <state relative-caret-position="-157">
+              <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -120,11 +120,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/whoosh1/wh.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="40" lean-forward="true" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+            <state relative-caret-position="319">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -149,10 +158,12 @@
       <find>filemenu</find>
       <find>entry</find>
       <find>map</find>
+      <find>b_1</find>
     </findStrings>
     <replaceStrings>
       <replace>product</replace>
       <replace>data_menu</replace>
+      <replace>b_a</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -187,6 +198,7 @@
         <option value="$PROJECT_DIR$/whoosh1/method.py" />
         <option value="$PROJECT_DIR$/whoosh1/wh.py" />
         <option value="$PROJECT_DIR$/whoosh1/interface.py" />
+        <option value="$PROJECT_DIR$/whoosh1/Docs/p-1-n1.txt" />
       </list>
     </option>
   </component>
@@ -200,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="618" />
     <option name="width" value="1309" />
     <option name="height" value="1038" />
@@ -223,12 +235,13 @@
             <path>
               <item name="AII - Acceso Inteligente a la Información" type="b2602c69:ProjectViewProjectNode" />
               <item name="AII - Acceso Inteligente a la Información" type="462c0819:PsiDirectoryNode" />
-              <item name="bs4ejercice_2" type="462c0819:PsiDirectoryNode" />
+              <item name="whoosh1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AII - Acceso Inteligente a la Información" type="b2602c69:ProjectViewProjectNode" />
               <item name="AII - Acceso Inteligente a la Información" type="462c0819:PsiDirectoryNode" />
               <item name="whoosh1" type="462c0819:PsiDirectoryNode" />
+              <item name="Docs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -399,22 +412,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="495" y="0" width="1047" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25067025" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25067025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32904148" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31616595" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31541726" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32904148" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
-      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="DB Execution Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -553,25 +566,11 @@
     <entry file="file://$PROJECT_DIR$/whoosh1/database.db">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n7.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n8.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n5.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -632,10 +631,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/whoosh1/wh.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="40" lean-forward="true" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+        <state relative-caret-position="319">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4ejercice_2/gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/whoosh/qparser/default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="358" column="43" lean-forward="true" selection-start-line="358" selection-start-column="43" selection-end-line="358" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoosh1/interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="80" column="47" lean-forward="true" selection-start-line="80" selection-start-column="47" selection-end-line="80" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -650,23 +683,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bs4ejercice_2/gui.py">
+    <entry file="file://$PROJECT_DIR$/whoosh1/Docs/p-1-n1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/whoosh1/interface.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
